@@ -1,0 +1,7 @@
+NoMethodError: undefined method `keys' for Array
+
+
+means
+
+B. There is no method called keys for Array objects.
+
